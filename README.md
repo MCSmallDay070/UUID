@@ -1,7 +1,9 @@
 # UUID在线生成
-一个在线生成UUID的网页
+一个在线生成UUID的网页程序
 
 可用于各类软件也可用于我的世界材质等资源配置文件中的UUID
+
+下载压缩包并解压到你的网站服务器上即可使用。
 
 ## 项目首页
 [https://smalldaymc.net/uuid](https://smalldaymc.net/uuid)
