@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<title>UUID生成器 -SmallDay工作室</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="renderer" content="webkit" />
+		<meta name="force-rendering" content="webkit" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		
+		<meta name="description" content="这是一个工具类网站。可以一键生成UUID。">
+		<link rel="shortcut icon" href="https://smalldaymc.net/favicon.ico">
+		<link rel="stylesheet" href="./static/mdui/css/mdui.min.css" />
+		<link rel="stylesheet" href="./static/css/page-style.css" />
+		<script src="./static/js/jquery-3.6.1.min.js"></script>
+	</head>
+
+	<body class="mdui-theme-layout-auto">
+		<noscript>You need JavaScript to run this app.</noscript>
+		<main style="display:none">
+			<header class="mdui-appbar">
+				<div class="mdui-toolbar mdui-color-indigo">
+					<a href="" class="mdui-typo-title">UUID在线生成</a>
+				</div>
+			</header>
+			<div class="mdui-container" style="max-width:500px;">
+				<div class="mdui-p-a-2">
+					<div class="mdui-textfield">
+						<i class="mdui-icon material-icons">person</i>
+						<label class="mdui-textfield-label">UUID</label>
+						<input class="mdui-textfield-input" type="type" id="uuid" readonly="readonly" />
+					</div>
+					<br />
+					<li class="mdui-list-item mdui-ripple">
+						<i class="mdui-list-item-icon mdui-icon material-icons">content_copy</i>
+						<div class="mdui-list-item-content">开启一键复制UUID</div>
+						<label class="mdui-switch">
+							<input type="checkbox" id="copy_uuid" checked />
+							<i class="mdui-switch-icon"></i>
+						</label>
+					</li>
+					<br />
+					<button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent mdui-btn-block" id="get">生成</button><br />
+					<p>本网站可以一键生成UUID，可用于各类软件也可用于我的世界材质等资源配置文件中的UUID</p>
+					<p class="mdui-typo">如果您不知道什么是UUID可以<a href="https://baike.baidu.com/item/UUID/5921266" target="_blank">点击此处</a>进行查看</p>
+                                                                                <p class="mdui-typo">本程序已开源<a href="https://github.com/MCSmallDay/070/UUID" target="_blank">点击此处</a>查看Github仓库地址</p>
+				</div>
+			</div>
+		</main>
+		<script src="./static/mdui/js/mdui.min.js"></script>
+		<script src="./static/js/uuid.js"></script>
+	</body>
+
+</html>

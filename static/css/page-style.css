@@ -1,0 +1,71 @@
+ .mdui-card {
+ 	border-radius: 12px;
+ }
+
+ .mdui-dialog {
+ 	border-radius: 12px;
+ }
+
+ .mdui-btn-block {
+ 	border-radius: 12px;
+ }
+
+ .mdui-btn {
+ 	border-radius: 8px;
+ }
+
+ .mdui-video-fluid {
+ 	border-radius: 12px;
+ }
+
+ .mdui-menu-open {
+ 	border-radius: 12px;
+ }
+
+ .mdui-table-fluid {
+ 	border-radius: 12px;
+ }
+
+ .mdui-panel-item {
+ 	border-radius: 12px;
+ }
+
+ .mdui-list-item {
+ 	border-radius: 12px;
+ }
+
+ *::-webkit-scrollbar-thumb {
+ 	border-radius: 12px;
+ }
+
+ .mdui-toolbar {
+ 	height: 64px;
+ 	line-height: 64px;
+ }
+
+ .mdui-btn,
+ .mdui-fab {
+ 	text-transform: none;
+ }
+
+ .mdui-appbar .mdui-toolbar {
+ 	height: 64px;
+ 	line-height: 64px;
+ }
+
+ .mdui-appbar-with-toolbar {
+ 	padding-top: 64px;
+ }
+
+ .mdui-overlay {
+ 	backdrop-filter: blur(7px);
+ }
+
+ .mdui-card {
+ 	box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 1px 5px 0 rgb(0 0 0 / 16%);
+ }
+
+ .mdui-drawer {
+ 	background-color: #fff;
+ 	box-shadow: -1px 10px 10px 0 rgb(60 64 67/30%), 0 1px 3px 1px rgb(60 64 67/15%);
+ }
