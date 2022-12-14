@@ -1,4 +1,3 @@
-//你可以复制并使用本代码，不对其进行限制。
 "use strict";
 
 function getuuid() {
