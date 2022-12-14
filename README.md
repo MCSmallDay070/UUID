@@ -1,5 +1,6 @@
 # UUID
 一个在线生成UUID的网页
+可用于各类软件也可用于我的世界材质等资源配置文件中的UUID
 
 ## 项目首页
 [https://smalldaymc.net/uuid](https://smalldaymc.net/uuid)
