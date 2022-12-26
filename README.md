@@ -19,8 +19,5 @@
 ## 仓库地址
 [https://github.com/MCSmallDay070/UUID](https://github.com/MCSmallDay070/UUID/)
 
-## 问题反馈
-如果你在使用此程序的时候遇到任何问题，请发送邮件到[mcsmallday@icloud.com](mailto:mcsmallday@icloud.com)
-
 ## 开源协议
 MIT
