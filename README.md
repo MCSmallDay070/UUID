@@ -10,7 +10,7 @@
 
 ### 直接从SmallDay工作室引入JS文件
 ```HTML
-<script src="https://smalldaymc.net/frontend/static/js/uuid.js"></script>
+<script src="https://smalldaymc.net/frontend/js/uuid.js"></script>
 ```
 
 ## 仓库地址
