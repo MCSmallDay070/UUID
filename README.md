@@ -5,6 +5,11 @@
 
 下载压缩包并解压到你的网站服务器上即可使用。
 
+#演示站点
+
+[https://uuid.rth1.vip](https://uuid.rth1.vip)
+
+网站服务器由[热铁盒网页托管](https://host.retiehe.com)提供技术支持
 
 ### 直接从SmallDay工作室引入JS文件
 ```HTML
@@ -16,7 +21,6 @@
 
 ## 协议
 MIT
-
 
 ## 问题反馈
 如果你在使用此程序的时候遇到任何问题，请发送邮件到[mcsmallday@icloud.com](mailto:mcsmallday@icloud.com)
