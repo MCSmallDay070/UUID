@@ -5,7 +5,7 @@
 
 下载压缩包并解压到你的网站服务器上即可使用。
 
-#演示站点
+###演示站点
 
 [https://uuid.rth1.vip](https://uuid.rth1.vip)
 
@@ -19,8 +19,8 @@
 ## 仓库地址
 [https://github.com/MCSmallDay070/UUID](https://github.com/MCSmallDay070/UUID/)
 
-## 协议
-MIT
-
 ## 问题反馈
 如果你在使用此程序的时候遇到任何问题，请发送邮件到[mcsmallday@icloud.com](mailto:mcsmallday@icloud.com)
+
+## 开源协议
+MIT
