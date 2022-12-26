@@ -9,7 +9,7 @@
 
 [https://uuid.rth1.vip](https://uuid.rth1.vip)
 
-网站服务器由[热铁盒网页托管](https://host.retiehe.com)提供技术支持
+演示站点由[热铁盒网页托管](https://host.retiehe.com)提供技术支持
 
 ### 直接从SmallDay工作室引入JS文件
 ```HTML
