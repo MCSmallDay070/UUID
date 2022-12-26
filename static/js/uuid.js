@@ -1,5 +1,7 @@
 "use strict";
 
+const version=20221227;
+
 function getuuid() {
     var d = new Date().getTime();
     if (window.performance && typeof window.performance.now === "function") {
