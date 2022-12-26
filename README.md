@@ -5,8 +5,6 @@
 
 下载压缩包并解压到你的网站服务器上即可使用。
 
-## 项目首页
-[https://smalldaymc.net/uuid](https://smalldaymc.net/uuid)
 
 ### 直接从SmallDay工作室引入JS文件
 ```HTML
